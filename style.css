@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+header{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: flex;
+    background-color: #13426c;
+    text-align: center;
+    
+}
+.icon img:hover{
+    width: 28px;
+}
+section img{
+    width: 100px;
+}
